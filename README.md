@@ -1,2 +1,1 @@
-# My-First-Repo
-Starting from scratch to make sure I got it down-pat
+I was able to open this in GitBash
